@@ -51,14 +51,13 @@ Pode ser aberto diretamente em qualquer ambiente Jupyter ou Google Colab.
 diagnostico-falhas-maquinas/  
 ├── notebooks/  
 │   └── Diagnostico_inteligente_de_falhas_maquinas.ipynb  
-├── README.md  
-├── requirements.txt  
+├── README.md    
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados. Atua no desenvolvimento de soluções inteligentes para diagnóstico de falhas, manutenção preditiva e otimização de sistemas industriais.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
 
 ## Licença
 
